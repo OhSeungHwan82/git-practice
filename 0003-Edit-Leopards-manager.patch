@@ -1,0 +1,24 @@
+From e3c850f3201dbff3ff548ed163ce1db9cbfc9ae3 Mon Sep 17 00:00:00 2001
+From: hwani1982 <hwani1982@incar.co.kr>
+Date: Tue, 5 Jul 2022 16:18:09 +0900
+Subject: [PATCH 3/3] Edit Leopards manager
+
+---
+ leopards.yaml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/leopards.yaml b/leopards.yaml
+index e734b1d..d81d220 100644
+--- a/leopards.yaml
++++ b/leopards.yaml
+@@ -1,6 +1,6 @@
+ team: Leopards
+ 
+-manager: Nora
++manager: Dooli
+ 
+ coach: LupiLupi
+ 
+-- 
+2.28.0.windows.1
+

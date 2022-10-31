@@ -1,0 +1,25 @@
+From af8cee5631ab3276c85d5cd6cee66132d8a3ddb0 Mon Sep 17 00:00:00 2001
+From: OhSeungHwan82 <108715101+OhSeungHwan82@users.noreply.github.com>
+Date: Tue, 5 Jul 2022 16:20:36 +0900
+Subject: [PATCH 2/3] Edit Leopards coach2
+
+---
+ leopards.yaml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/leopards.yaml b/leopards.yaml
+index 57e6afe..e734b1d 100644
+--- a/leopards.yaml
++++ b/leopards.yaml
+@@ -2,7 +2,7 @@ team: Leopards
+ 
+ manager: Nora
+ 
+-coach: Lupi
++coach: LupiLupi
+ 
+ members:
+ - Linda
+-- 
+2.28.0.windows.1
+
